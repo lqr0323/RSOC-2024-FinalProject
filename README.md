@@ -15,12 +15,10 @@
   GAMEOVER后会显示分数
 当然，以下是用 Markdown 格式解释的代码：
 
-```markdown
-# RT-Thread 贪吃蛇游戏示例代码
+
 
 ## 头文件
 
-```c
 #include <rtthread.h>
 #include <lcd.h> // LCD库，根据实际情况选择对应的库
 #include <touch.h> // 触摸屏库，根据实际情况选择对应的库
@@ -30,7 +28,7 @@
 
 ## 宏定义
 
-```c
+
 #define SNAKE_LENGTH 100
 #define LCD_WIDTH 240
 #define LCD_HEIGHT 320
