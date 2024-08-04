@@ -209,4 +209,3 @@ int main(void)
 - `rt_thread_create` 创建一个新的线程用于运行游戏逻辑。
 - `rt_thread_startup` 启动线程。
 
-这段代码展示了如何在 RT-Thread 上实现一个基本的贪吃蛇游戏。你可以根据具体的硬件和需求对其进行调整和优化。
